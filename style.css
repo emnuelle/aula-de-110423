@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+
+body {
+    height: 100px;
+    background-color: #96A7AE;
+    
+}
+
+h1 {
+    color: #000000;
+    font-family: 'Playfair Display', serif;
+}
+
+div{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    background-color: #000000;
+    background-image: url(../img/monet.png);
+    background-attachment: fixed;
+    background-size: contain;
+}
+
